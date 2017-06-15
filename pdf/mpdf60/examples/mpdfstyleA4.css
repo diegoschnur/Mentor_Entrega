@@ -1,0 +1,26 @@
+		body { font-family: DejaVuSansCondensed, sans-serif; font-size: 11pt;  }
+		p { 	text-align: justify; margin-bottom: 4pt;  margin-top:0pt; }
+
+		hr {	width: 70%; height: 1px; 
+			text-align: center; color: #999999; 
+			margin-top: 8pt; margin-bottom: 8pt; }
+
+		a {	color: #000066; font-style: normal; text-decoration: underline; 
+			font-weight: normal; }
+
+		pre { font-family: DejaVuSansMono, monospaced; font-size: 9pt; margin-top: 5pt; margin-bottom: 5pt; }
+
+
+
+
+		.breadcrumb {
+			text-align: right; font-size: 8pt; font-family: DejaVuSerifCondensed, serif; color: #666666;
+			font-weight: bold; font-style: normal; margin-bottom: 6pt; }
+
+		.infobox { margin-top:10pt; background-color:#DDDDBB; text-align:center; border:1px solid #880000; }
+
+		.big { font-size: 1.5em; }
+		.red { color: #880000; }
+		.slanted { font-style: italic; }
+
+
